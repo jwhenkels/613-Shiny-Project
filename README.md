@@ -1,4 +1,4 @@
-# 613-Shiny-Project
+# 613 Shiny Project
 Jacob Henkels &amp; David Saff
 
 Our shiny app uses data from the World Happiness Report in 2019. This data lists 158 countries and their scores for the 2019 WHR.
