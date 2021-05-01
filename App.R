@@ -9,6 +9,8 @@ library(rvest)
 library(shiny)
 library(readxl)
 
+WHR2019 <- read.csv("WHR2019.csv")
+
 ui <- fluidPage(
   headerPanel("World Happiness Report"), 
   selectInput("var1", "Select Country", choices = (WHR2019$Country.or.region)),
